@@ -50,15 +50,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=PabloHFernandes&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloHFernandes&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ⭐Se você gosta do meu trabalho, fique à vontade para estrelar o repositório.
 
 🤝 Estou sempre aberto a colaborações, parcerias e ideias interessantes.
