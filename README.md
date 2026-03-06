@@ -21,9 +21,10 @@
   </a>
   <a href="https://www.instagram.com/pablo_henriqueef/">
     <img src="https://img.shields.io/badge/Instagram-@Pablo_Henriqueef-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-    </a>
-    <a href="https://www.linkedin.com/in/pablo-henrique-4a0016300/">
+   </a>
+   <a href="www.linkedin.com/in/pablohenriquefcosta">
     <img src="https://img.shields.io/badge/LinkedIn-Pablo Henrique-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+   </a>
   </a>
   </a> 
   </a>
