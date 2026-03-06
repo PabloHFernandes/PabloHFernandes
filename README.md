@@ -19,12 +19,11 @@
   <a href="https://github.com/PabloHFernandes">
     <img src="https://img.shields.io/badge/GitHub-PabloHFernandes-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://www.instagram.com/pablo_henriqueef/">
+  <a href="https://www.instagram.com/pablohenrique.7/">
     <img src="https://img.shields.io/badge/Instagram-@Pablo_Henriqueef-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-   </a>
-   <a href="www.linkedin.com/in/pablohenriquefcosta">
+  </a>
+  <a href="www.linkedin.com/in/pablohenriquefcosta/">
     <img src="https://img.shields.io/badge/LinkedIn-Pablo Henrique-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-   </a>
   </a>
   </a> 
   </a>
@@ -48,6 +47,15 @@
 ![Docker](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-721E1E?style=for-the-badge&logo=figma)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=PabloHFernandes&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloHFernandes&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
